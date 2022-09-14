@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MediaKid.EntidadesDeNegocio
 {
-    class Usuario
+    public class Usuario
     {
     }
 }

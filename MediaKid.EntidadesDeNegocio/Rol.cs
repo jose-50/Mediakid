@@ -8,5 +8,6 @@ namespace MediaKid.EntidadesDeNegocio
 {
    public class Rol
     {
+
     }
 }

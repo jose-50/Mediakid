@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace MediaKid.EntidadesDeNegocio
 {
-    class Video
+   public  class Video
+
     {
+
+
     }
 }
