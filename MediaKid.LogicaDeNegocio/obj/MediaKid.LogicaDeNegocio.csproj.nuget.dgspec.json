@@ -1,41 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.LogicaDeNegocio\\MediaKid.LogicaDeNegocio.csproj": {}
+    "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.LogicaDeNegocio\\MediaKid.LogicaDeNegocio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.AccesoADatos\\MediaKid.AccesoADatos.csproj": {
+    "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.AccesoADatos\\MediaKid.AccesoADatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.AccesoADatos\\MediaKid.AccesoADatos.csproj",
+        "projectUniqueName": "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.AccesoADatos\\MediaKid.AccesoADatos.csproj",
         "projectName": "MediaKid.AccesoADatos",
-        "projectPath": "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.AccesoADatos\\MediaKid.AccesoADatos.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.AccesoADatos\\obj\\",
+        "projectPath": "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.AccesoADatos\\MediaKid.AccesoADatos.csproj",
+        "packagesPath": "C:\\Users\\Mariela\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.AccesoADatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mariela\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.EntidadesDeNegocio\\MediaKid.EntidadesDeNegocio.csproj": {
-                "projectPath": "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.EntidadesDeNegocio\\MediaKid.EntidadesDeNegocio.csproj"
+              "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.EntidadesDeNegocio\\MediaKid.EntidadesDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.EntidadesDeNegocio\\MediaKid.EntidadesDeNegocio.csproj"
               }
             }
           }
@@ -65,7 +64,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -74,34 +74,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.EntidadesDeNegocio\\MediaKid.EntidadesDeNegocio.csproj": {
+    "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.EntidadesDeNegocio\\MediaKid.EntidadesDeNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.EntidadesDeNegocio\\MediaKid.EntidadesDeNegocio.csproj",
+        "projectUniqueName": "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.EntidadesDeNegocio\\MediaKid.EntidadesDeNegocio.csproj",
         "projectName": "MediaKid.EntidadesDeNegocio",
-        "projectPath": "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.EntidadesDeNegocio\\MediaKid.EntidadesDeNegocio.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.EntidadesDeNegocio\\obj\\",
+        "projectPath": "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.EntidadesDeNegocio\\MediaKid.EntidadesDeNegocio.csproj",
+        "packagesPath": "C:\\Users\\Mariela\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.EntidadesDeNegocio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mariela\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -125,7 +124,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -134,45 +134,44 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.LogicaDeNegocio\\MediaKid.LogicaDeNegocio.csproj": {
+    "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.LogicaDeNegocio\\MediaKid.LogicaDeNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.LogicaDeNegocio\\MediaKid.LogicaDeNegocio.csproj",
+        "projectUniqueName": "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.LogicaDeNegocio\\MediaKid.LogicaDeNegocio.csproj",
         "projectName": "MediaKid.LogicaDeNegocio",
-        "projectPath": "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.LogicaDeNegocio\\MediaKid.LogicaDeNegocio.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.LogicaDeNegocio\\obj\\",
+        "projectPath": "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.LogicaDeNegocio\\MediaKid.LogicaDeNegocio.csproj",
+        "packagesPath": "C:\\Users\\Mariela\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.LogicaDeNegocio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mariela\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.AccesoADatos\\MediaKid.AccesoADatos.csproj": {
-                "projectPath": "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.AccesoADatos\\MediaKid.AccesoADatos.csproj"
+              "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.AccesoADatos\\MediaKid.AccesoADatos.csproj": {
+                "projectPath": "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.AccesoADatos\\MediaKid.AccesoADatos.csproj"
               },
-              "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.EntidadesDeNegocio\\MediaKid.EntidadesDeNegocio.csproj": {
-                "projectPath": "C:\\Users\\Alumno\\source\\repos\\MediaKid\\MediaKid.EntidadesDeNegocio\\MediaKid.EntidadesDeNegocio.csproj"
+              "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.EntidadesDeNegocio\\MediaKid.EntidadesDeNegocio.csproj": {
+                "projectPath": "C:\\Users\\Mariela\\Desktop\\mediaKids\\MediaKid.EntidadesDeNegocio\\MediaKid.EntidadesDeNegocio.csproj"
               }
             }
           }
@@ -192,7 +191,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -201,7 +201,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

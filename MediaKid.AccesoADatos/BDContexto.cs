@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace MediaKid.AccesoADatos
 {
-    public class DBContexto:Dbcontext
+    public class BDContexto:DbContext
     {
         public DbSet<Usuario> Usuario { get; set; }
         public DbSet<Rol> Rol { get; set; }

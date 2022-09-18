@@ -1,17 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31829.152
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaKid.AccesoADatos", "MediaKid.AccesoADatos\MediaKid.AccesoADatos.csproj", "{032C5344-B3F5-4497-87D3-ACFF19068973}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediaKid.AccesoADatos", "MediaKid.AccesoADatos\MediaKid.AccesoADatos.csproj", "{032C5344-B3F5-4497-87D3-ACFF19068973}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaKid.EntidadesDeNegocio", "MediaKid.EntidadesDeNegocio\MediaKid.EntidadesDeNegocio.csproj", "{AB56A299-2913-4B7D-9751-9C3312518FA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediaKid.EntidadesDeNegocio", "MediaKid.EntidadesDeNegocio\MediaKid.EntidadesDeNegocio.csproj", "{AB56A299-2913-4B7D-9751-9C3312518FA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaKid.LogicaDeNegocio", "MediaKid.LogicaDeNegocio\MediaKid.LogicaDeNegocio.csproj", "{0C2FCDC2-18BC-43F9-BF68-AC2C66DD6E10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediaKid.LogicaDeNegocio", "MediaKid.LogicaDeNegocio\MediaKid.LogicaDeNegocio.csproj", "{0C2FCDC2-18BC-43F9-BF68-AC2C66DD6E10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaKid.PruebasUnitarias", "MediaKid.PruebasUnitarias\MediaKid.PruebasUnitarias.csproj", "{C8760E77-47C5-4713-BA4F-6E6CE99C6FAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediaKid.PruebasUnitarias", "MediaKid.PruebasUnitarias\MediaKid.PruebasUnitarias.csproj", "{C8760E77-47C5-4713-BA4F-6E6CE99C6FAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaKid.WebAPI", "MediaKid.WebAPI\MediaKid.WebAPI.csproj", "{A5DED087-67BB-4440-A221-B314FD933BEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediaKid.WebAPI", "MediaKid.WebAPI\MediaKid.WebAPI.csproj", "{A5DED087-67BB-4440-A221-B314FD933BEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
