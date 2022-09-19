@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using MediaKid.AccesoADatos;
 using MediaKid.EntidadesDeNegocio;
-using QuickMusic.AccesoADatos;
+
 
 namespace MediaKid.LogicaDeNegocio
 {

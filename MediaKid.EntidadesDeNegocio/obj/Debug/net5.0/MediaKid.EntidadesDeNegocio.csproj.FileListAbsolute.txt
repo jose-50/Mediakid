@@ -10,3 +10,15 @@ C:\Users\Mariela\Desktop\mediaKids\MediaKid.EntidadesDeNegocio\obj\Debug\net5.0\
 C:\Users\Mariela\Desktop\mediaKids\MediaKid.EntidadesDeNegocio\obj\Debug\net5.0\refint\MediaKid.EntidadesDeNegocio.dll
 C:\Users\Mariela\Desktop\mediaKids\MediaKid.EntidadesDeNegocio\obj\Debug\net5.0\MediaKid.EntidadesDeNegocio.pdb
 C:\Users\Mariela\Desktop\mediaKids\MediaKid.EntidadesDeNegocio\obj\Debug\net5.0\ref\MediaKid.EntidadesDeNegocio.dll
+D:\mediaKids\MediaKid.EntidadesDeNegocio\bin\Debug\net5.0\MediaKid.EntidadesDeNegocio.deps.json
+D:\mediaKids\MediaKid.EntidadesDeNegocio\bin\Debug\net5.0\MediaKid.EntidadesDeNegocio.dll
+D:\mediaKids\MediaKid.EntidadesDeNegocio\bin\Debug\net5.0\ref\MediaKid.EntidadesDeNegocio.dll
+D:\mediaKids\MediaKid.EntidadesDeNegocio\bin\Debug\net5.0\MediaKid.EntidadesDeNegocio.pdb
+D:\mediaKids\MediaKid.EntidadesDeNegocio\obj\Debug\net5.0\MediaKid.EntidadesDeNegocio.csproj.AssemblyReference.cache
+D:\mediaKids\MediaKid.EntidadesDeNegocio\obj\Debug\net5.0\MediaKid.EntidadesDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\mediaKids\MediaKid.EntidadesDeNegocio\obj\Debug\net5.0\MediaKid.EntidadesDeNegocio.AssemblyInfoInputs.cache
+D:\mediaKids\MediaKid.EntidadesDeNegocio\obj\Debug\net5.0\MediaKid.EntidadesDeNegocio.AssemblyInfo.cs
+D:\mediaKids\MediaKid.EntidadesDeNegocio\obj\Debug\net5.0\MediaKid.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+D:\mediaKids\MediaKid.EntidadesDeNegocio\obj\Debug\net5.0\MediaKid.EntidadesDeNegocio.dll
+D:\mediaKids\MediaKid.EntidadesDeNegocio\obj\Debug\net5.0\ref\MediaKid.EntidadesDeNegocio.dll
+D:\mediaKids\MediaKid.EntidadesDeNegocio\obj\Debug\net5.0\MediaKid.EntidadesDeNegocio.pdb

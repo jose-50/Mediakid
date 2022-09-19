@@ -9,7 +9,7 @@ using System.Security.Cryptography;
 using MediaKid.AccesoADatos;
 using MediaKid.EntidadesDeNegocio;
 
-namespace QuickMusic.AccesoADatos
+namespace MediaKid.AccesoADatos
 {
     public class UsuarioDAL
     {
