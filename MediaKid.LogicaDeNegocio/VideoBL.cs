@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace MediaKid.LogicaDeNegocio
 {
-    internal class VideoBL
+  public class VideoBL
     {
         public async Task<int> CrearAsync(Video pVideo)
         {

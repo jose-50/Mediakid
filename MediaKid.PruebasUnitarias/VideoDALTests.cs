@@ -14,7 +14,7 @@ namespace MediaKid.AccesoADatos.Tests
     [TestClass()]
     public class VideoDALTests
     {
-        private static Video videoInicial = new Video { Id = 4, IdCategoria = 2 };
+        private static Video videoInicial = new Video { Id = 5, IdCategoria = 2 };
 
         [TestMethod()]
         public async Task T1CrearAsyncTest()
