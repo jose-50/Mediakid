@@ -12,7 +12,7 @@ namespace MediaKid.AccesoADatos.Tests
     [TestClass()]
     public class UsuarioDALTests
     {
-        private static Usuario usuarioInicial = new Usuario { Id = 6, IdRol = 8, Login = "JuanUser", Password = "12345" };
+        private static Usuario usuarioInicial = new Usuario { Id = 2, IdRol = 2, Login = "JuanUser", Password = "12345" };
 
         [TestMethod()]
         public async Task T1CrearAsyncTest()
@@ -68,8 +68,8 @@ namespace MediaKid.AccesoADatos.Tests
         {
             var usuario = new Usuario();
             usuario.IdRol = usuarioInicial.IdRol;
-            usuario.Nombre = "A";
-            usuario.Apellido = "a";
+            usuario.Nombre = "jua";
+            usuario.Apellido = "lo";
             usuario.Login = "A";
             usuario.Estatus = (byte)Estatus_Usuario.ACTIVO;
             usuario.Top_Aux = 10;
@@ -82,8 +82,8 @@ namespace MediaKid.AccesoADatos.Tests
         {
             var usuario = new Usuario();
             usuario.IdRol = usuarioInicial.IdRol;
-            usuario.Nombre = "A";
-            usuario.Apellido = "a";
+            usuario.Nombre = "jua";
+            usuario.Apellido = "lo";
             usuario.Login = "A";
             usuario.Estatus = (byte)Estatus_Usuario.ACTIVO;
             usuario.Top_Aux = 10;

@@ -18,7 +18,7 @@ namespace MediaKid.AccesoADatos
        
             protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-98UETKU\SQLEXPRESS; Initial Catalog = MediaKids; Integrated Security=True");
+            optionsBuilder.UseSqlServer(@"Data Source=M09-CIII\SQLEXPRESS; Initial Catalog = MediaKids; Integrated Security=True");
         }
 
     }

@@ -1,0 +1,7 @@
+E:\MEDIAKID\Mediakid\Mediakid.APIWeb\obj\Debug\net5.0\Mediakid.APIWeb.csproj.AssemblyReference.cache
+E:\MEDIAKID\Mediakid\Mediakid.APIWeb\obj\Debug\net5.0\Mediakid.APIWeb.GeneratedMSBuildEditorConfig.editorconfig
+E:\MEDIAKID\Mediakid\Mediakid.APIWeb\obj\Debug\net5.0\Mediakid.APIWeb.AssemblyInfoInputs.cache
+E:\MEDIAKID\Mediakid\Mediakid.APIWeb\obj\Debug\net5.0\Mediakid.APIWeb.AssemblyInfo.cs
+E:\MEDIAKID\Mediakid\Mediakid.APIWeb\obj\Debug\net5.0\Mediakid.APIWeb.csproj.CoreCompileInputs.cache
+E:\MEDIAKID\Mediakid\Mediakid.APIWeb\obj\Debug\net5.0\Mediakid.APIWeb.MvcApplicationPartsAssemblyInfo.cs
+E:\MEDIAKID\Mediakid\Mediakid.APIWeb\obj\Debug\net5.0\Mediakid.APIWeb.MvcApplicationPartsAssemblyInfo.cache

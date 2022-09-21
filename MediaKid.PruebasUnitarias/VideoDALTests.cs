@@ -9,12 +9,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DeptosES.AccesoADatos.Tests
+namespace MediaKid.AccesoADatos.Tests
 {
     [TestClass()]
     public class VideoDALTests
     {
-        private static Video videoInicial = new Video { Id = 2, IdCategoria = 1 };
+        private static Video videoInicial = new Video { Id = 4, IdCategoria = 2 };
 
         [TestMethod()]
         public async Task T1CrearAsyncTest()
@@ -34,10 +34,11 @@ namespace DeptosES.AccesoADatos.Tests
         public async Task T2ModificarAsyncTest()
         {
             var video = new Video();
+            video.Id = videoInicial.Id;
              video.IdCategoria = videoInicial.IdCategoria;
             video.Nombre = "la vaca lola";
             video.Url = "url del video";
-            video.Descripcion = "Municipio famoso por el puerto que lleva su mismo nombre";
+            video.Descripcion = "cualquier cosa";
             video.Duracion= "3:00";
             int result = await VideoDAL.ModificarAsync(video);
             Assert.AreNotEqual(0, result);
